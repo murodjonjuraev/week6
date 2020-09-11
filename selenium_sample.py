@@ -22,3 +22,4 @@ print("hit the enter button")
 time.sleep(3)
 print("now closing the browser...")
 driver.close()
+
